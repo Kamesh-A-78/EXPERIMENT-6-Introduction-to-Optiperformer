@@ -65,6 +65,8 @@ The system includes:
 4. Description of eye diagram changes with increasing fiber length.
 
 ---
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/e2a28469-89f7-400f-83b3-a470ac18a325" />
+
 
 ## Tabulation
 
@@ -79,12 +81,12 @@ The system includes:
 |      |                   |                        |                      |              |         |             |                                     |
 
 ---
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/3cb0f029-8ef5-4cab-9a15-0d0ee27a4684" />
 
 ## Graphs
 
-*(Insert plots of Optical Power, Q Factor, and BER vs. Fiber Length here)*
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/2aa0007b-aa7c-40ed-bf81-fced79cda6ef" />
 
----
 
 ## RESULT
 

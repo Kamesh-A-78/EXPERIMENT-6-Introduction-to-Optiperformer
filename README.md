@@ -6,22 +6,13 @@ Download and install OptiPerformer software on your computer and run a sample fi
 
 ---
 
-## Overview
+## theory
 
-Optiwave introduces **OptiPerformer**, a free photonic design automation tool that harnesses the full power of OptiSystem and creates specific dynamic design scenarios for student use.
+Optiwave introduces OptiPerformer, a free photonic design automation tool which harnesses the full power of OptiSystem and creates specific dynamic design scenarios which can be used by students.
+In this exercise, you will download and install OptiPerformer on your PC/laptop. Your license of OptiPerformer will be capable of loading and running OptiSystem simulations prepared for this course.
+Once you have installed OptiPerformer, you can copy the first file (named: ‘Introduction_OptiPerformer.osp’) to your PC and run the simulation. The first file is a basic fiber optic system consisting of a transmitter, a fiber and a receiver. The system is “instrumented” with an optical power meter at the input to receiver (or the output of the fiber) and a bit error rate (BER) analyzer.
 
-In this exercise, you will:
-- Download and install OptiPerformer on your PC/laptop.
-- Use your license to load and run OptiSystem simulations prepared for this course.
 
-The first simulation file (`Introduction_OptiPerformer.osp`) models a basic fiber optic system consisting of:
-- A transmitter
-- A fiber
-- A receiver
-
-The system includes:
-- An optical power meter at the receiver input (fiber output)
-- A Bit Error Rate (BER) analyzer
 
 ---
 
@@ -67,6 +58,9 @@ The system includes:
 ---
 <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/e2a28469-89f7-400f-83b3-a470ac18a325" />
 
+<img width="945" height="484" alt="image" src="https://github.com/user-attachments/assets/98b27190-88e4-41c7-b2d4-6e283238eaee" />
+
+<img width="1123" height="387" alt="image" src="https://github.com/user-attachments/assets/2c52f5b2-9a90-41b0-85b4-33e5a452d7c3" />
 
 ## Tabulation
 
@@ -81,11 +75,9 @@ The system includes:
 |      |                   |                        |                      |              |         |             |                                     |
 
 ---
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/3cb0f029-8ef5-4cab-9a15-0d0ee27a4684" />
 
 ## Graphs
 
-<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/2aa0007b-aa7c-40ed-bf81-fced79cda6ef" />
 
 
 ## RESULT

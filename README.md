@@ -16,7 +16,7 @@ Once you have installed OptiPerformer, you can copy the first file (named: ‘In
 
 ---
 
-## Instructions
+## PROCEDURE
 
 1. Download and install OptiPerformer from [optiwave.com](https://optiwave.com).  
 2. Copy the `Introduction_OptiPerformer.osp` file to your PC.  
@@ -57,9 +57,7 @@ Once you have installed OptiPerformer, you can copy the first file (named: ‘In
 
 ---
 
-<img width="945" height="484" alt="image" src="https://github.com/user-attachments/assets/98b27190-88e4-41c7-b2d4-6e283238eaee" />
 
-<img width="1123" height="387" alt="image" src="https://github.com/user-attachments/assets/2c52f5b2-9a90-41b0-85b4-33e5a452d7c3" />
 
 ## Tabulation
 
@@ -74,6 +72,7 @@ Once you have installed OptiPerformer, you can copy the first file (named: ‘In
 |      |                   |                        |                      |              |         |             |                                     |
 
 ---
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/961f30ef-64e8-470a-8003-23b1e164d791" />
 
 ## Graphs
 

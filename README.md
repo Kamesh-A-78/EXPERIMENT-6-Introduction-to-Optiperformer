@@ -56,7 +56,6 @@ Once you have installed OptiPerformer, you can copy the first file (named: ‘In
 4. Description of eye diagram changes with increasing fiber length.
 
 ---
-<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/e2a28469-89f7-400f-83b3-a470ac18a325" />
 
 <img width="945" height="484" alt="image" src="https://github.com/user-attachments/assets/98b27190-88e4-41c7-b2d4-6e283238eaee" />
 
